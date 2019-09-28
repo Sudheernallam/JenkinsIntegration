@@ -1,0 +1,4 @@
+# Created at 2019-09-28T18:29:40.659
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Eclipse\CodePractice\JenkinsIntegration\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
